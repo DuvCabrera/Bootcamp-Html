@@ -95,4 +95,8 @@ header nav a:hover{
     width: 70%;
 }
 
-/*aula 7*/
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
